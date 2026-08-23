@@ -46,43 +46,43 @@ Web-based FIFO control system for finished goods inventory and sales planning.
 
 **Technologies:** React, TypeScript, C#, SQL Server, Oracle
 
-### 💰 Production Line Cost Control
+### 💰 [Production Line Cost Control](./projects/production-line-cost.md)
 
 Production cost monitoring system covering labor costs, expenses, and scrap.
 
 **Technologies:** React, TypeScript, SQL Server
 
-### 💡 Value Analysis & Value Engineering (VAVE)
+### 💡 [Value Analysis & Value Engineering (VA/VE)](./projects/va-ve.md)
 
 Web-based system supporting VA/VE projects and cost reduction tracking.
 
 **Technologies:** React, TypeScript, SQL Server
 
-### 🔄 Engineering Change Request (ECR)
+### 🔄 [Engineering Change Request (ECR)](./projects/ecr.md)
 
 Online ECR workflow and approval system supporting multiple departments.
 
 **Technologies:** React, TypeScript, SQL Server
 
-### 🔧 Compressor Rework Management
+### 🔧 [Compressor Rework Management](./projects/compressor-rework.md)
 
 Production rework tracking and analytical dashboard system.
 
 **Technologies:** React, C#, .NET, SQL Server
 
-### 🏗️ Construction in Progress (CIP)
+### 🏗️ [Construction in Progress (CIP)](./projects/cip.md)
 
 Accounting application for CIP and Fixed Asset transfer management.
 
 **Technologies:** C#, .NET, SQL Server, Crystal Reports
 
-### ♻️ Scrap Management System
+### ♻️ [Scrap Management System](./projects/scrap-management.md)
 
 Paperless scrap management system for accounting operations.
 
 **Technologies:** ASP.NET, C#, SQL Server
 
-### 🧾 E-Billing System
+### 🧾 [E-Billing System](./projects/e-billing.md)
 
 Online billing and invoice tracking system for vendors.
 
@@ -91,14 +91,14 @@ Online billing and invoice tracking system for vendors.
 ---
 ## 📂 Other Projects
 
-* 📦 **Check Stock FG** — Finished goods stock counting system
-* 🛡️ **Safety Inspection System** — QR Code-based safety inspection
-* 📋 **Record Packaging** — Digital packaging records and dashboard
-* 💻 **IT Bring Out Form** — Computer equipment approval system
-* 🔔 **Follow Up System** — Task and document tracking system
-* 💰 **P/R Control** — Budget control and reporting system
-* 📚 **DCI Compliance** — Compliance document management portal
-* ⭐ **Customer Satisfaction Survey** — Online customer survey and dashboard
+* 📦 [**Check Stock FG**](./projects/check-stock-fg.md) — Finished goods stock counting system
+* 🛡️ [**Safety Inspection System**](./projects/safety-inspection.md) — QR Code-based safety inspection
+* 📋 [**Record Packaging**](./projects/record-packaging.md) — Digital packaging records and dashboard
+* 💻 [**IT Bring Out Form**](./projects/it-bring-out.md) — Computer equipment approval system
+* 🔔 [**Follow Up System**](./projects/follow-up-system.md) — Task and document tracking system
+* 💰 [**P/R Control**](./projects/pr-control.md) — Budget control and reporting system
+* 📚 [**DCI Compliance**](./projects/dci-compliance.md) — Compliance document management portal
+* ⭐ [**Customer Satisfaction Survey**](./projects/customer-satisfaction.md) — Online customer survey and dashboard
 
 ---
 
