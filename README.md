@@ -121,3 +121,10 @@ The projects presented in this portfolio are based on **real-world business appl
 🔒 Source code, database structures, business data, and confidential company information are **not included** due to company confidentiality and data security requirements.
 
 🖼️ Screenshots and examples are presented using **sanitized or recreated data** where applicable.
+
+
+## 📫 Contact
+
+Email: pannitaim@gmail.com
+
+LinkedIn: Coming soon
