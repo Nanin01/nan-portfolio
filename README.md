@@ -40,7 +40,7 @@ My experience focuses on developing **web and desktop applications** that improv
 
 ## 🚀 Featured Projects
 
-### 📦 FIFO Finished Goods
+### 📦 [FIFO Finished Goods](./projects/fifo-fg.md)
 
 Web-based FIFO control system for finished goods inventory and sales planning.
 
